@@ -1,0 +1,16 @@
+# Rust
+core/target/
+
+# Go
+server/bin/
+
+# Env / secrets
+.env
+*.pem
+
+# Editors / OS
+.idea/
+.vscode/
+.DS_Store
+
+server/astelyn
